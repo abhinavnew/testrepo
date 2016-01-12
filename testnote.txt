@@ -1,2 +1,3 @@
 ##this is a file to check git commit
 ##Added new comment 1
+## Added new comment 2
